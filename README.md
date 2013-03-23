@@ -4,5 +4,10 @@
 
 ## Screnshots ##
 ### Basic ###
-![Basic](https://github.com/josh-fuggle/Desert-Alfred2-Theme/master/img/desert-theme-basic.img)
+![Basic](https://raw.github.com/josh-fuggle/Desert-Alfred2-Theme/master/img/desert-theme-basic.png)
 
+## iTunes Mini Player ##
+![Basic](https://raw.github.com/josh-fuggle/Desert-Alfred2-Theme/master/img/desert-theme-itunes.png)
+
+## Finder ##
+![Basic](https://raw.github.com/josh-fuggle/Desert-Alfred2-Theme/master/img/desert-theme-finder.png)
